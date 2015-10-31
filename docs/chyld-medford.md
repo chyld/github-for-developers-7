@@ -4,3 +4,5 @@
 * Sushi
 * Coding
 * Blue
+* JS/Python
+
